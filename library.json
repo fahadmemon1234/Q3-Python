@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Personal Library Manager",
+        "author": "Akshat",
+        "publish_year": 2005,
+        "genre": "Science Fiction",
+        "read_status": true,
+        "added_date": "2025-03-16 10:00:00"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publish_year": 1925,
+        "genre": "Fiction",
+        "read_status": false,
+        "added_date": "2024-01-01 05:15:00"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publish_year": 1951,
+        "genre": "Fiction",
+        "read_status": false,
+        "added_date": "2024-01-01 06:30:00"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publish_year": 1960,
+        "genre": "Fiction",
+        "read_status": true,
+        "added_date": "2023-04-24 07:45:00"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "publish_year": 1945,
+        "genre": "Dystopian",
+        "read_status": false,
+        "added_date": "2023-04-24 07:45:00"
+    },
+    {
+        "title": "Testing For Python",
+        "author": "Fahad",
+        "publish_year": 2003,
+        "genre": "Python",
+        "read_status": false,
+        "added_date": "2025-03-16 17:33:14"
+    }
+]
